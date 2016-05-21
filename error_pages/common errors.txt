@@ -1,0 +1,5 @@
+400 Bad Request
+401 Authorization Required
+403 Forbidden Page
+404 File not Found
+500 Internal Error
